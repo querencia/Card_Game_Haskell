@@ -9,7 +9,7 @@ has been made, the cards are revealed and the winner is selected.
 
 Score distribution is as follows
 
-<table>
+<table style="text-align:center;">
     <tr>
         <td>Pred</td>
         <td>Win?</td>
